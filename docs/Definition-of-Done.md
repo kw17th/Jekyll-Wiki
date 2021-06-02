@@ -1,4 +1,5 @@
 # Definition of Done
+
 | Work Item Status | Responsible | Definition of Done | Next Status in Flow | Remark |
 |-|-|-|-|-|
 | New | PPO/Business | - User Story is created | In Refining |  |
